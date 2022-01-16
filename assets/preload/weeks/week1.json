@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Monstrosity",
+			"bear",
+			[
+				226,
+				39,
+				2
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "lab",
+	"weekCharacters": [
+		"bear",
+		"bf",
+		"gf"
+	],
+	"storyName": "Cheese",
+	"weekName": "bear",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

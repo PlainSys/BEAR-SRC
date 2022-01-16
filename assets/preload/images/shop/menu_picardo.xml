@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_picardo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="picardo white0000" x="0" y="0" width="1331" height="2048"/>
+	<SubTexture name="picardo white0001" x="0" y="0" width="1331" height="2048"/>
+	<SubTexture name="picardo white0002" x="0" y="0" width="1331" height="2048"/>
+	<SubTexture name="picardo basic0000" x="0" y="0" width="1566" height="2048"/>
+	<SubTexture name="picardo basic0001" x="0" y="0" width="1566" height="2048"/>
+	<SubTexture name="picardo basic0002" x="0" y="0" width="1566" height="2048"/>
+</TextureAtlas>

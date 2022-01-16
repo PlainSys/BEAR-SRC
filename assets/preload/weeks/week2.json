@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Parasite",
+			"bear",
+			[
+				226,
+				39,
+				2
+			]
+		],
+		[
+			"Rofl",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "lab",
+	"weekCharacters": [
+		"bear",
+		"bf",
+		"gf"
+	],
+	"storyName": "a",
+	"weekName": "bear",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

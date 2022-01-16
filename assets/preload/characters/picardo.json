@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-220,
+				-285
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pic-idle"
+		},
+		{
+			"offsets": [
+				-365,
+				-258
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pic-up"
+		},
+		{
+			"offsets": [
+				-342,
+				-287
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pic-down"
+		},
+		{
+			"offsets": [
+				-363,
+				-280
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pic-right"
+		},
+		{
+			"offsets": [
+				-327,
+				-284
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pic-left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Picardo_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "picardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		239,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}

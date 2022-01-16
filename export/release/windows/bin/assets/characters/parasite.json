@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-212,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Para-idle"
+		},
+		{
+			"offsets": [
+				-170,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Para-down"
+		},
+		{
+			"offsets": [
+				-180,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Para-up"
+		},
+		{
+			"offsets": [
+				-191,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Para-left"
+		},
+		{
+			"offsets": [
+				-191,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Para-right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Parasite_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "parasite",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		179,
+		239
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

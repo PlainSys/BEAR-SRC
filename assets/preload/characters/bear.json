@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-103,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bear-idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-93,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bear-left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				211
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bear-up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bear-right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bear-down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-99,
+				61
+			],
+			"anim": "transformation",
+			"fps": 24,
+			"name": "Bear-Transformation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bear_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bear",
+	"flip_x": false,
+	"healthbar_colors": [
+		205,
+		164,
+		118
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
